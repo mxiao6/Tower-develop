@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/DroidPlanner/Tower.svg?branch=develop)](https://travis-ci.org/DroidPlanner/Tower)
+<!-- [![Build Status](https://travis-ci.org/DroidPlanner/Tower.svg?branch=develop)](https://travis-ci.org/DroidPlanner/Tower)
 [![Issue Stats](http://issuestats.com/github/DroidPlanner/Tower/badge/pr)](http://issuestats.com/github/DroidPlanner/Tower)
 [![Issue Stats](http://issuestats.com/github/DroidPlanner/Tower/badge/issue)](http://issuestats.com/github/DroidPlanner/Tower)
+ -->
+Contribute to open source app Tower. --Mingze
 
 # Tower
 
